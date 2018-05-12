@@ -1,4 +1,8 @@
 _repo: Laokoon-Oder-Uber-die-Grenzen-der-Malerei-und-Poesie_6889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lessing, Gotthold Ephraim
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/990
     wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6889#Laokoon-Oder-Uber-die-Grenzen-der-Malerei-und-Poesie
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
